@@ -1,22 +1,13 @@
-胖东来
-DeepSeek
-
-大疆
-DJI
-
-稚晖君
-
 游戏科学
-
 三体
 流浪地球
 刘慈欣
 郭帆
 
+DeepSeek
 chatgpt
 openai
 sora
-
 claude
 Anthropic
 
@@ -24,6 +15,10 @@ ai
 !gai
 人工智能
 AIGC
+图片生成
+视频生成
+CoT
+RAG
 
 自动驾驶
 
@@ -33,7 +28,10 @@ AIGC
 中国
 芯片
 光刻机
+
 科技
 核能
+
 Furry
 兽装
+dragon
